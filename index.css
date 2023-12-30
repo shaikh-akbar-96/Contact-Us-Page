@@ -1,0 +1,10 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: content-box;
+}
+
+.container .contact_info ul li {
+  position: relative;
+  list-style: none;
+}
